@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule project/(.*) project.php?project=$1  [QSA,L]
