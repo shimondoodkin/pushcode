@@ -1,0 +1,30 @@
+done:
+directory client - done
+php file upload receive - done
+parital uploads idea by using mdsum lists - (just the idea done)
+file upload using shellscript with no deps - done
+
+missing yet:
+
+parital file uploads (missing to compress to tar by a list of files and then upload)
+php project view a dhtml 3 way diff and listing of uploads, or just show the 
+modifications:
+
+top: list of modified files
+bottom: diff output, maybe later to convert it to two tabs one with diff and 
+another with two or three  files edit with code mirror marking the diff.
+right: list of uplaods as a tree
+
+to find a parent by parent id, write parent id when upploading
+find all dirs without a parent original id and build a tree from them
+
+notify project owner by email about uploads
+
+
+develop php client
+
+develop single file client
+
+develop latest project download / buit in self update
+
+
